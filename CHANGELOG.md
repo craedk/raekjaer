@@ -1,3 +1,7 @@
+## [Version 1.0.4] (2020-03-25)
+
+* Set three col post image crop to 16:9.
+
 ## [Version 1.0.3] (2020-03-25)
 
 * Set three col post image crop to true.
