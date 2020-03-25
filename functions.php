@@ -18,7 +18,7 @@ add_action( 'wp_enqueue_scripts', 'neve_child_load_css', 20 );
  */
 if ( function_exists( 'add_image_size' ) ) {
 	add_image_size( 'crae-post-image', 684, 684, false );
-	add_image_size( 'crae-threecol-featured-image', 313, 313, false );
+	add_image_size( 'crae-threecol-featured-image', 313, 313, true );
 }
 /**
  * Select image sizes from admin.
