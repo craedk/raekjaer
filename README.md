@@ -1,6 +1,6 @@
-# neve-child
+# raekjaer
 
-This is a basic Neve Child Theme. Used for standard costumizations by Crae.
+This is a Neve Child Theme. Used for my personal website.
 
 Dependencies: Neve Theme.
 
